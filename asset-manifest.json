@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Peklava-LLC/smart_advisor.git/static/css/main.3af7e09c.css",
-    "main.js": "/Peklava-LLC/smart_advisor.git/static/js/main.bd116c04.js",
-    "static/js/787.1ddff6bb.chunk.js": "/Peklava-LLC/smart_advisor.git/static/js/787.1ddff6bb.chunk.js",
-    "static/media/logo.svg": "/Peklava-LLC/smart_advisor.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Peklava-LLC/smart_advisor.git/index.html",
-    "main.3af7e09c.css.map": "/Peklava-LLC/smart_advisor.git/static/css/main.3af7e09c.css.map",
-    "main.bd116c04.js.map": "/Peklava-LLC/smart_advisor.git/static/js/main.bd116c04.js.map",
-    "787.1ddff6bb.chunk.js.map": "/Peklava-LLC/smart_advisor.git/static/js/787.1ddff6bb.chunk.js.map"
+    "main.css": "/smart_advisor/static/css/main.3af7e09c.css",
+    "main.js": "/smart_advisor/static/js/main.14ff2c85.js",
+    "static/js/787.1ddff6bb.chunk.js": "/smart_advisor/static/js/787.1ddff6bb.chunk.js",
+    "static/media/logo.svg": "/smart_advisor/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/smart_advisor/index.html",
+    "main.3af7e09c.css.map": "/smart_advisor/static/css/main.3af7e09c.css.map",
+    "main.14ff2c85.js.map": "/smart_advisor/static/js/main.14ff2c85.js.map",
+    "787.1ddff6bb.chunk.js.map": "/smart_advisor/static/js/787.1ddff6bb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3af7e09c.css",
-    "static/js/main.bd116c04.js"
+    "static/js/main.14ff2c85.js"
   ]
 }
